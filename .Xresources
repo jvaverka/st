@@ -1,0 +1,54 @@
+xterm*selectToClipboard: true
+xterm*disallowedWindowOps: 20,21,SetXProp
+
+! font
+st.font:	FiraCode Nerd Font:size=15:antialias=true:autohint=true;
+
+! transparency
+st.alpha: 1.00
+
+! colors
+
+! special
+st.foreground:   #B8BEC9
+st.background:   #232731
+st.cursorColor:  #ECEFF4
+st.revCursorColor:  #555555
+
+! black
+st.color0:       #4C566A
+st.color8:       #6C768A
+
+! red
+st.color1:       #BF616A
+st.color9:       #af7370
+
+! green
+st.color2:       #A3BE8C
+st.color10:      #B5CEA8
+
+! yellow
+st.color3:       #D7BA7D
+st.color11:      #E7cb93
+
+! blue
+st.color4:       #5e81ac
+st.color12:      #69A8C6
+
+! magenta
+st.color5:       #B48EAD
+st.color13:      #939ede
+
+! cyan
+st.color6:       #88c0d0
+st.color14:      #69BAC8
+
+! white
+st.color7:       #ABB2BF
+st.color15:      #D8DEE9
+
+! extras
+st.bellvolume:	  0
+st.tabspaces:			2
+st.chscale:			1.0
+st.cwscale:			1.0
